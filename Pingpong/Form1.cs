@@ -12,6 +12,7 @@ using Pingpong.Properties;
 
 namespace Pingpong
 {
+    //  src: https://www.codeproject.com/Tips/986054/Csharp-Simple-Pingpong-Game
     public partial class Form1 : Form
     {
         public Form1()
